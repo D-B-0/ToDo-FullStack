@@ -15,4 +15,4 @@ And last in the client folder
 npm i
 npm run serve
 ```
-##### Please note that tecnically these are 2 servers, what i refer to as *client* is a server that has the task to interrogate the REST api and serve the data in meaningfull way
+##### Please note that tecnically these are 2 servers, what i refer to as *client* is a server that has the task to interrogate the REST api and serve the data in meaningfull way to the user
