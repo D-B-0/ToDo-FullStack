@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/Dario-0/ToDo-Server.git
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/Dario-0/ToDo-Client.git
