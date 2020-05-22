@@ -7,7 +7,7 @@ Then in the server folder\
 ```
 npm i
 npm run start
-```\
+```
 And last in the client folder\
 ```
 npm i
